@@ -27,9 +27,9 @@ I have an interests in **full-stack development, cloud computing, machine learni
 - 😄 My Project ... **Web Develpoment**
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/java.png" alt=java width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="icons/java.svg" title="Java" width="40" height="40"/>
+ <img style="margin: auto;" src="icons/c-plusplus.svg" alt=cplusplus width="40" height="40"/>
+ <img style="margin: auto;" src="icons/python.svg" alt=python width="40" height="40"/>
 </p>
 
 <h4>Skills and Tools: </h4>
