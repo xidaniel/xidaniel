@@ -16,25 +16,19 @@
   </a>
 </p>
 
-<h3 align="center">A passionate fullstack developer in the United States</h3>
+<h3 align="center">A passionate full-stack developer in the United States</h3>
 <h3 align="center">Master of Science, Computer Engineering (To be graduated in May 2021)</h3>
 <img src="avatar.png/" align="right" alt="Pulpit rock" width="300" height="400">
 
 
 
-
-
-- 🔭 I’m currently working on **vKarma Webapp**
 - 🌱 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
 I have an interests in full-stack development, cloud computing, machine learning, and deep learning. **Django and React.js**
-- 💬 Ask me about ... **Web Develpoment**
-- 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- 😄 My Project ... **Web Develpoment**
 <h4>Programming Languages: </h4>
 <p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/java.png" alt=java width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
 </p>
 
