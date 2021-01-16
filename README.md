@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
+I have an interests in full-stack development, cloud computing, machine learning, and deep learning.
+<img src="image/avatar.png" align="right" width="304" height="400">
+
 <!--
 **xidaniel/xidaniel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
