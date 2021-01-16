@@ -18,10 +18,10 @@
 
 <h3 align="center">A passionate software developer in the United States</h3>
 <h3 align="center">Master of Science, Computer Engineering (Expected to graduate in May 2021)</h3>
-<img src="avatar.png/" align="right" alt="Pulpit rock" width="250" height="350">
+<img src="avatar.png/" align="right" alt="Pulpit rock" width="300" height="400">
 
 
-
+## About Me
 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
 I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
 
