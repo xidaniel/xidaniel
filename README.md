@@ -40,17 +40,17 @@ I have an interests in **full-stack development, cloud computing, machine learni
   <tr>
     <td>
 		<a href="https://github.com/">
-			<img src="https://i.hizliresim.com/kcX3Xz.png" />
+			<img src="image/thesis result.png" />
 		</a>
 	</td>
     <td>
 		<a href="https://github.com/">
-			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
+			<img src="image/tick.png" />
 		</a>
 	</td>
     <td>
 		<a href="https://github.com/">
-			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+			<img src="image/bot.png" />
 		</a>
 	</td>
   </tr>
@@ -63,17 +63,17 @@ I have an interests in **full-stack development, cloud computing, machine learni
   <tr>
     <td>
 		<a href="https://github.com/">
-			<img src="https://i.hizliresim.com/kcX3Xz.png" />
+			<img src="image/face.png" />
 		</a>
 	</td>
     <td>
 		<a href="https://github.com/">
-			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
+			<img src="image/face.png" />
 		</a>
 	</td>
     <td>
 		<a href="https://github.com/">
-			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+			<img src="image/face.png" />
 		</a>
 	</td>
   </tr>	
