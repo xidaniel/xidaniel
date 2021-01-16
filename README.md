@@ -55,7 +55,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
 <p align="left">
   <img style="margin: auto;" src="icons/linux-tux.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/microsoft-windows.svg" alt=slack width="50" height="50"/>
-  <img style="margin: auto;" src="icons/respberry-pi.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/raspberry-pi.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/eclipse.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/intellij-idea.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/webstorm.svg" alt=slack width="50" height="50"/>
