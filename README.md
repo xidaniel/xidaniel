@@ -39,17 +39,17 @@ I have an interests in **full-stack development, cloud computing, machine learni
   </tr>
   <tr>
     <td>
-		<a href="https://github.com/">
+		<a href="https://github.com/xidaniel/Lecture-Video-Objects-Reframing-System">
 			<img src="image/thesis result.png" />
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/">
+		<a href="https://github.com/xidaniel/TickRecognization">
 			<img src="image/tick.png" />
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/">
+		<a href="https://github.com/xidaniel/Badminton-Shuttlecock-Collector">
 			<img src="image/bot.png" />
 		</a>
 	</td>
