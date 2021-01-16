@@ -22,34 +22,29 @@
 
 
 
-- 🌱 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
+- 😄 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
 I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
 - 😄 My Project ... **Web Develpoment**
-<h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="icons/java.svg" title="Java" width="50" height="50"/>
- <img style="margin: auto;" src="icons/c-plusplus.svg" alt=cplusplus width="50" height="50"/>
- <img style="margin: auto;" src="icons/python.svg" alt=python width="50" height="50"/>
-</p>
 
-<h4>Technologies and Frameworks: </h4>
-<p align="left">
-	<img style="margin: auto;" src="icons/react.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/redux.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/spring.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/angular-icon.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/html-5.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/npm.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/opencv.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/tensorflow.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/git.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/github-octocat.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/jupyter.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/mongodb-icon.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/tomcat.svg" alt=html5 width="50" height="50"/>
-	<img style="margin: auto;" src="icons/aws.svg" alt=html5 width="50" height="50"/>
-	
-</p>
+---
+#### Programming Languages: 
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+
+---
+#### Technologies and Frameworks: 
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
 <h4>Desktop Environment: </h4>
 <p align="left">
@@ -71,5 +66,4 @@ I have an interests in **full-stack development, cloud computing, machine learni
 </p>
 
 ⭐️ From [Xi Wang](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```Leon```
-
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
