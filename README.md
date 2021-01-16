@@ -56,8 +56,8 @@ I have an interests in **full-stack development, cloud computing, machine learni
   </tr>
 	
   <tr>
-    <th>AI-Based Video Analysis System</th>
-    <th>Tick Recognition Application</th>
+    <th>Movie Recommendation System</th>
+    <th>PhDOffer Moile Application</th>
     <th>Intelligent Robot Collector </th>
   </tr>
   <tr>
