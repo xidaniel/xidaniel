@@ -58,7 +58,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
   <tr>
     <th>Movie Recommendation System</th>
     <th>PhDOffer Moile Application</th>
-    <th>Intelligent Robot Collector </th>
+    <th>Face Detection</th>
   </tr>
   <tr>
     <td>
