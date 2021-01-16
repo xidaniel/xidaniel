@@ -84,6 +84,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
@@ -92,12 +93,20 @@ I have an interests in **full-stack development, cloud computing, machine learni
 ## Technologies and Frameworks: 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Express.js](https://img.shields.io/badge/-Express-black?style=flat-square&logo=expressjs)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![Spark](https://img.shields.io/badge/-Spark-black?style=flat-square&logo=spark)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+![Tensorflow](https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=tensorflow)
+![Keras](https://img.shields.io/badge/-Keras-black?style=flat-square&logo=keras)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-black?style=flat-square&logo=elasticsearch)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
+![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=aws)
+![GCP](https://img.shields.io/badge/-GCP-black?style=flat-square&logo=googlecloud)
+![Maven](https://img.shields.io/badge/-Maven-black?style=flat-square&logo=maven)
 
 ## Desktop Environment:
 <p align="left">
