@@ -27,40 +27,40 @@ I have an interests in **full-stack development, cloud computing, machine learni
 - 😄 My Project ... **Web Develpoment**
 <h4>Programming Languages: </h4>
 <p align="left">
- <img style="margin: auto;" src="icons/java.svg" title="Java" width="60" height="60"/>
- <img style="margin: auto;" src="icons/c-plusplus.svg" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="icons/python.svg" alt=python width="60" height="60"/>
+ <img style="margin: auto;" src="icons/java.svg" title="Java" width="50" height="50"/>
+ <img style="margin: auto;" src="icons/c-plusplus.svg" alt=cplusplus width="50" height="50"/>
+ <img style="margin: auto;" src="icons/python.svg" alt=python width="50" height="50"/>
 </p>
 
 <h4>Technologies and Frameworks: </h4>
 <p align="left">
-	<img style="margin: auto;" src="icons/react.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/redux.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/spring.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/angular-icon.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/html-5.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/npm.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/opencv.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/tensorflow.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/git.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/github-octocat.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/jupyter.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/mongodb-icon.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/tomcat.svg" alt=html5 width="60" height="60"/>
-	<img style="margin: auto;" src="icons/aws.svg" alt=html5 width="60" height="60"/>
+	<img style="margin: auto;" src="icons/react.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/redux.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/spring.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/angular-icon.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/html-5.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/npm.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/opencv.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/tensorflow.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/git.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/github-octocat.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/jupyter.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/mongodb-icon.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/tomcat.svg" alt=html5 width="50" height="50"/>
+	<img style="margin: auto;" src="icons/aws.svg" alt=html5 width="50" height="50"/>
 	
 </p>
 
 <h4>Desktop Environment: </h4>
 <p align="left">
-  <img style="margin: auto;" src="icons/linux-tux.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/microsoft-windows.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/respberry-pi.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/eclipse.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/intellij-idea.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/webstorm.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/pycharm.svg" alt=slack width="60" height="60"/>
-  <img style="margin: auto;" src="icons/visual-studio-code.svg" alt=slack width="60" height="60"/>
+  <img style="margin: auto;" src="icons/linux-tux.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/microsoft-windows.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/respberry-pi.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/eclipse.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/intellij-idea.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/webstorm.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/pycharm.svg" alt=slack width="50" height="50"/>
+  <img style="margin: auto;" src="icons/visual-studio-code.svg" alt=slack width="50" height="50"/>
   
 </p>
 
@@ -70,6 +70,6 @@ I have an interests in **full-stack development, cloud computing, machine learni
 
 </p>
 
-⭐️ From [Sachin Verma](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```El Psy Kongroo```
+⭐️ From [Xi Wang](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```Leon```
 
 
