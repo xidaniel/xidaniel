@@ -82,7 +82,6 @@ I have an interests in **full-stack development, cloud computing, machine learni
 
 ## Programming Languages: 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
-![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=flat-square&logo=sql)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
