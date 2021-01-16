@@ -22,12 +22,39 @@
 
 
 
-- 😄 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
+I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
 I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
-- 😄 My Project ... **Web Develpoment**
 
----
-#### Programming Languages: 
+![Xi Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xidaniel&show_icons=true)
+
+### Unique Projects
+<table style="width:100%; table-layout:fixed">
+  <tr>
+    <th>My Small 2D Game Engine</th>
+    <th>A RISK tabletop game implementation</th>
+    <th>My Small 2D Game Engine, but in C++</th>
+  </tr>
+  <tr>
+    <td>
+		<a href="https://github.com/aeris170/DoaEngine">
+			<img src="https://i.hizliresim.com/kcX3Xz.png" />
+		</a>
+	</td>
+    <td>
+		<a href="https://github.com/aeris170/RISK-Digital-Cut">
+			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
+		</a>
+	</td>
+    <td>
+		<a href="https://github.com/chroma-works/NeoDoa">
+			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+		</a>
+	</td>
+  </tr>
+</table>
+
+
+### Programming Languages: 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -35,8 +62,8 @@ I have an interests in **full-stack development, cloud computing, machine learni
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
----
-#### Technologies and Frameworks: 
+
+### Technologies and Frameworks: 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
