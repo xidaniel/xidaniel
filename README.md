@@ -124,4 +124,3 @@ I have an interests in **full-stack development, cloud computing, machine learni
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
 
 ⭐️ From [Xi Wang](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```Leon```
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
