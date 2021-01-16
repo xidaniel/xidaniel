@@ -23,7 +23,7 @@
 
 
 - 🌱 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
-I have an interests in full-stack development, cloud computing, machine learning, and deep learning. **Django and React.js**
+I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
 - 😄 My Project ... **Web Develpoment**
 <h4>Programming Languages: </h4>
 <p align="left">
