@@ -18,43 +18,69 @@
 
 <h3 align="center">A passionate software developer in the United States</h3>
 <h3 align="center">Master of Science, Computer Engineering (To be graduated in May 2021)</h3>
-<img src="avatar.png/" align="right" alt="Pulpit rock" width="300" height="400">
+<img src="avatar.png/" align="right" alt="Pulpit rock" width="250" height="350">
 
 
 
 I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
 I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
 
+
 ![Xi Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xidaniel&show_icons=true)
 
-### Unique Projects
+
+## Unique Projects
+
 <table style="width:100%; table-layout:fixed">
   <tr>
-    <th>My Small 2D Game Engine</th>
-    <th>A RISK tabletop game implementation</th>
-    <th>My Small 2D Game Engine, but in C++</th>
+    <th>AI-Based Video Analysis System</th>
+    <th>Tick Recognition Application</th>
+    <th>Intelligent Robot Collector </th>
   </tr>
   <tr>
     <td>
-		<a href="https://github.com/aeris170/DoaEngine">
+		<a href="https://github.com/">
 			<img src="https://i.hizliresim.com/kcX3Xz.png" />
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/aeris170/RISK-Digital-Cut">
+		<a href="https://github.com/">
 			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/chroma-works/NeoDoa">
+		<a href="https://github.com/">
 			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
 		</a>
 	</td>
   </tr>
+	
+  <tr>
+    <th>AI-Based Video Analysis System</th>
+    <th>Tick Recognition Application</th>
+    <th>Intelligent Robot Collector </th>
+  </tr>
+  <tr>
+    <td>
+		<a href="https://github.com/">
+			<img src="https://i.hizliresim.com/kcX3Xz.png" />
+		</a>
+	</td>
+    <td>
+		<a href="https://github.com/">
+			<img src="https://repository-images.githubusercontent.com/169880359/d106c280-9780-11e9-983c-0b51e49af958" />
+		</a>
+	</td>
+    <td>
+		<a href="https://github.com/">
+			<img src="https://user-images.githubusercontent.com/25724155/72576385-9ca35100-38e0-11ea-9f10-5de3852e6df3.png" />
+		</a>
+	</td>
+  </tr>	
 </table>
 
 
-### Programming Languages: 
+## Programming Languages: 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -63,7 +89,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 
-### Technologies and Frameworks: 
+## Technologies and Frameworks: 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=Redux)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -73,7 +99,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
 
-<h4>Desktop Environment: </h4>
+## Desktop Environment:
 <p align="left">
   <img style="margin: auto;" src="icons/linux-tux.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/microsoft-windows.svg" alt=slack width="50" height="50"/>
@@ -86,11 +112,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
   
 </p>
 
-<p align="center">
-
-<a href=https://linkedin.com/in/xidaniel target="blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg alt="sachuverma" height="40" width="40" /></a>
-
-</p>
+## I’m currently learning:
 
 ⭐️ From [Xi Wang](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```Leon```
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
