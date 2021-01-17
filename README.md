@@ -34,8 +34,8 @@ I have an interests in **full-stack development, cloud computing, machine learni
 <table style="width:100%; table-layout:fixed">
   <tr>
     <th>AI-Based Video Analysis System</th>
-    <th>Tick Recognition Application</th>
-    <th>Intelligent Robot Collector </th>
+    <th>Tick Recognition</th>
+    <th>Intelligent Badmintion Collector</th>
   </tr>
   <tr>
     <td>
@@ -56,8 +56,8 @@ I have an interests in **full-stack development, cloud computing, machine learni
   </tr>
 	
   <tr>
-    <th>Movie Recommendation System</th>
-    <th>PhDOffer Moile Application</th>
+    <th>Hybrid Movie Recommendation System</th>
+    <th>PhDOffer Platform Application</th>
     <th>Face Detection</th>
   </tr>
   <tr>
