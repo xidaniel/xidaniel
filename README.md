@@ -63,7 +63,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
   <tr>
     <td>
 		<a href="https://github.com/">
-			<img src="image/face.png" />
+			<img src="image/movie.png" />
 		</a>
 	</td>
     <td>
