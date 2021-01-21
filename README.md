@@ -117,10 +117,10 @@ I have an interests in **full-stack development, cloud computing, machine learni
   <img style="margin: auto;" src="icons/webstorm.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/pycharm.svg" alt=slack width="50" height="50"/>
   <img style="margin: auto;" src="icons/visual-studio-code.svg" alt=slack width="50" height="50"/>
-  
 </p>
 
 ## I’m currently learning:
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
+![System Design](https://img.shields.io/badge/-SystemDesign-black?style=flat-square&logo=systemDesign)
 
 ⭐️ From [Xi Wang](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
