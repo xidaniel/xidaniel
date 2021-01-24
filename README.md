@@ -22,7 +22,7 @@
 
 
 ## About Me
-I am currently learning University of Massachusetts Amherst (UMass) as a graduate student in Computer Engineering major.
+I am currently learning University of Massachusetts Amherst (UMass) with a Master's degree in Computer Engineering.
 I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
 
 
