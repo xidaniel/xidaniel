@@ -62,7 +62,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
   </tr>
   <tr>
     <td>
-		<a href="https://github.com/">
+		<a href="https://github.com/xidaniel/Movie-Recommendation-Engine">
 			<img src="image/movie.png" />
 		</a>
 	</td>
