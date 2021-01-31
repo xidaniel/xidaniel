@@ -67,7 +67,7 @@ I have an interests in **full-stack development, cloud computing, machine learni
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/">
+		<a href="https://github.com/xidaniel/Ph.D.-Offer-Platform">
 			<img src="image/PHDoffer.png" />
 		</a>
 	</td>
