@@ -23,7 +23,7 @@
 
 ## About Me
 I am currently learning University of Massachusetts Amherst (UMass) with a Master's degree in Computer Engineering.
-I have an interests in **full-stack development, cloud computing, machine learning**, and **deep learning**.
+I have an interests in **Full-Stack Development, Cloud Computing, Machine Learning**, and **Deep Learning**.
 
 
 ![Xi Wang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xidaniel&show_icons=true)
