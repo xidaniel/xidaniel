@@ -122,6 +122,6 @@ I have an interests in **Full-Stack Development, Cloud Computing, Machine Learni
 ## I’m currently learning:
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
 ![System Design](https://img.shields.io/badge/-SystemDesign-black?style=flat-square&logo=systemDesign)
-![Algorithm](https://img.shields.io/badge/-Algorithm-black?style=flat-square&logo=algorithm)
+![Algorithms](https://img.shields.io/badge/-Algorithms-black?style=flat-square&logo=algorithms)
 
 ⭐️ From [Xi Wang](https://github.com/xidaniel) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
