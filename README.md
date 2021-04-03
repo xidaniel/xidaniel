@@ -57,7 +57,7 @@ I have an interests in **Full-Stack Development, Cloud Computing, Machine Learni
 	
   <tr>
     <th>Hybrid Movie Recommendation System</th>
-    <th>PhDOffer Platform Application</th>
+    <th>GitHub Repositories Visualization and Archived Recommendation</th>
     <th>Face Detection</th>
   </tr>
   <tr>
@@ -67,8 +67,8 @@ I have an interests in **Full-Stack Development, Cloud Computing, Machine Learni
 		</a>
 	</td>
     <td>
-		<a href="https://github.com/xidaniel/Ph.D.-Offer-Platform">
-			<img src="image/github_visual.png" />
+		<a href="https://github.com/xidaniel/GitHub-Visual">
+			<img src="image/visual.png" />
 		</a>
 	</td>
     <td>
