@@ -16,8 +16,7 @@
   </a>
 </p>
 
-<h3 align="center">A passionate software developer in the United States</h3>
-<h3 align="center">Master of Science, Computer Engineering (Graduate in May 2021)</h3>
+<h3 align="center">A passionate Software Engineer @Microsoft in the United States</h3>
 <img src="avatar.png/" align="right" alt="Pulpit rock" width="300" height="400">
 
 
