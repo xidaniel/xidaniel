@@ -21,7 +21,7 @@
 
 
 ## About Me
-I am currently learning University of Massachusetts Amherst (UMass) with a Master's degree in Computer Engineering.
+I graduated from the University of Massachusetts Amherst with a Master's degree in Computer Engineering. I am currently working at Microsoft as Software Engineer. 
 I have an interests in **Full-Stack Development, Cloud Computing, Machine Learning**, and **Deep Learning**.
 
 
